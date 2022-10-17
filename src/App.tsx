@@ -4,7 +4,7 @@ import Resume from "./components/resume";
 
 export default function App() {
   return (
-    <div className="App">
+    <div className="bg-DBDBDB  ">
       <h1>Testing the App component</h1>
       <Hello />
       <Resume />
